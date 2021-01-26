@@ -10,7 +10,7 @@ btn.addEventListener('click', () => {
     let timer = new Timer(document.querySelector('.timer'), 100);
 });
 
-console.log(123123123);
+console.log(123123);
 
 // window.addEventListener('load', function () {
 //     let timer1 = new Timer(document.querySelector('.timer1'), 100);
